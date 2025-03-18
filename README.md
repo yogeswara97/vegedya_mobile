@@ -1,16 +1,15 @@
-# vegedya_firebase
+# Coffee Order App
 
-A new Flutter project.
+## Overview
+This is a Flutter project developed as a final test for the Mobile Programming course at Politeknik Negeri Bali, Semester 4. The application allows users to order coffee easily and efficiently.
 
-## Getting Started
+## Features
+- User-friendly interface for browsing coffee options
+- Simple checkout process
+- Order history tracking
+- Responsive design for various screen sizes
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- Flutter
+- Dart
+- Firebase (for backend services)

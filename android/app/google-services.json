@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411082096896",
+    "project_id": "vegedya",
+    "storage_bucket": "vegedya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411082096896:android:68e45b26665f1cd62773e5",
+        "android_client_info": {
+          "package_name": "com.example.vegedya_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOnqwPTHBsEeNRRFN65b-jdsWnemxbKNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
